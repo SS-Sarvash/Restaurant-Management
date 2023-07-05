@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "Name": "Sarvash",
+      "Phno": "123456",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 1
+    },
+    {
+      "Name": "Praveen",
+      "Phno": "123456",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 2
+    },
+    {
+      "Name": "Venky",
+      "Phno": "56789",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 3
+    },
+    {
+      "Name": "Subash",
+      "Phno": "345267",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 4
+    },
+    {
+      "Name": "Naveen",
+      "Phno": "67925846",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 5
+    },
+    {
+      "Name": "Vignov",
+      "Phno": "459786132",
+      "Mail": "praveenpa725@gmail.com",
+      "Capacity": "7",
+      "noOfTables": "2",
+      "id": 6
+    },
+    {
+      "Name": "aravind",
+      "Mail": "aravind@gmail.com",
+      "Phno": "13425634",
+      "Capacity": "2",
+      "noOfTables": "3",
+      "id": 7
+    },
+    {
+      "Name": "venkatesh",
+      "Mail": "vk@gmail.com",
+      "Phno": "1523647889",
+      "Capacity": "6",
+      "noOfTables": "2",
+      "id": 8
+    }
+  ]
+}
